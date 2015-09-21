@@ -1,5 +1,13 @@
 == README
 
+# Ruby on Rials Tutorial: sample application
+
+This is the sample application for the
+[*Ruby on Rails Tutorial:
+Learb Web Development whith Rails :D](http://www.railstutorial.org/)
+by [Michael Hartl] (http://www.michelhartl.com/).
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
